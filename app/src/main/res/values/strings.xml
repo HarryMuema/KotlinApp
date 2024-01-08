@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="enter_todo_title">Enter todo title</string>
+    <string name="task_1">Task 1</string>
+</resources>
